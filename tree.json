@@ -1,0 +1,32 @@
+{
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "20:58:11",
+      "value": "28 MAY 2024"
+    },
+    "file": "2.json",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "English",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.4.2 (d8e32da)"
+    }
+  },
+  "people": [
+    {
+      "id": "I1*689acf73-2224-4cdf-b0e4-b15ebc4afa37",
+      "names": [
+        {
+          "value": "Dadang /Luki/"
+        }
+      ]
+    }
+  ]
+}
